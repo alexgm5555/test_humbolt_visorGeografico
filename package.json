@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "google-maps-react": "^2.0.2",
     "mongoose": "^5.1.4",
     "mongoose-double": "0.0.1",
